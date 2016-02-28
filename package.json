@@ -1,0 +1,17 @@
+{
+  "name": "jwt-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Krzysztof Pająk <kpajak@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jwt-simple": "^0.4.1",
+    "lodash": "^4.5.1"
+  }
+}
